@@ -38,11 +38,8 @@ The objective of this project is to demonstrate how complex, real-world operatio
 
 ## ER Diagram
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f8bba608-86ef-44b3-b5eb-e4cba5b6e3d2" 
-       alt="ER Diagram" 
-       width="1000">
-</p>
+<img width="2000" height="1400" alt="Untitled design" src="https://github.com/user-attachments/assets/349cda10-10cf-46f9-8c64-beaf7c76c76e" />
+
 
 
 ## Tools & Concepts Used
