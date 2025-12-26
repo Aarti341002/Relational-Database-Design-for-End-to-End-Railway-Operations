@@ -12,11 +12,7 @@
 
 This project focuses on designing and implementing a structured, normalized relational database to model end-to-end railway operations, including passenger management, ticketing, train scheduling, payments, staff duties, and onboard services.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/055ec105-0c4b-4995-9feb-884ecfb56eb2" 
-       alt="Railway Control System" 
-       width="600">
-</p>
+>
 
 
 ## Objective
