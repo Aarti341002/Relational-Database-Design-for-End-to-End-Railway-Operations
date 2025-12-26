@@ -1,5 +1,32 @@
-Relational Database Design for End-to-End Railway Operations
-The objective of this project is to design and implement a structured, normalized relational database that models end-to-end railway operations, including passenger management, ticketing, train scheduling, payments, staff duties, and onboard services.
-The project aims to demonstrate how complex, real-world operational data can be organized into a scalable and integrity-driven database system, minimizing redundancy while ensuring accuracy, consistency, and efficient data retrieval.
-Description:
-This project focuses on building an integrated railway operations database using relational database principles. We began by identifying the key operational entities involved in a railway system—such as passengers, tickets, trains, routes, stations, coaches, seats, payments, staff, and vendors—and mapping how these entities interact in real life. An Entity-Relationship (ER) model was first created to visually represent these interactions and dependencies. Based on this model, the database schema was carefully designed and normalized (up to Third Normal Form) to eliminate data redundancy and maintain referential integrity. The system is structured around the ticket lifecycle, which acts as the central link between passengers, trains, seat allocation, payments, and additional services like food orders. Supporting modules such as staff duty assignment and vendor management were designed separately to ensure modularity and future scalability. SQL scripts were written to create tables, define primary and foreign key relationships, apply indexing, and run meaningful queries that simulate real operational use cases such as passenger-ticket mapping, revenue tracking, and staff scheduling. Overall, the project demonstrates how a well-designed relational database can serve as the backbone of large-scale service systems like railways, providing a strong foundation for future application development, analytics, or system automation.
+# Railway Operations Database Management System
+
+## Overview
+This project focuses on designing and implementing a structured, normalized relational database to model end-to-end railway operations, including passenger management, ticketing, train scheduling, payments, staff duties, and onboard services.
+
+## Objective
+The objective of this project is to demonstrate how complex, real-world operational data can be organized into a scalable and integrity-driven relational database system, minimizing redundancy while ensuring accuracy, consistency, and efficient data retrieval.
+
+## System Design
+- Identified key railway entities such as passengers, tickets, trains, routes, stations, coaches, seats, payments, staff, and vendors
+- Designed an Entity-Relationship (ER) model to capture relationships and dependencies
+- Converted the ER model into a relational schema normalized up to Third Normal Form (3NF)
+- Ensured referential integrity using primary and foreign key constraints
+
+## Key Features
+- Central ticket lifecycle linking passengers, trains, seat allocation, and payments
+- Modular design for staff duty assignment and vendor management
+- Indexing for optimized query performance
+- SQL queries simulating real operational scenarios such as:
+  - Passenger–ticket mapping
+  - Revenue tracking
+  - Staff scheduling
+
+## Tools & Concepts Used
+- Relational Database Design
+- ER Modeling
+- Normalization (up to 3NF)
+- SQL (DDL, DML, Queries)
+- Primary & Foreign Key Constraints
+
+## Use Case
+This project demonstrates how a well-designed relational database can serve as the backbone for large-scale service systems like railways and can be extended for future application development, analytics, or system automation.
