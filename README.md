@@ -1,11 +1,5 @@
 # Railway Operations Database Management System
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8917e845-b372-4d4f-98d7-bfc43a16f340" 
-       alt="Railway Platform" 
-       width="800">
-</p>
-
 
 
 ## Overview
