@@ -1,5 +1,6 @@
+
 <p align="center"
-<img "width="265" height="190" alt="image" src="https://github.com/user-attachments/assets/de382302-9bfa-4018-a1a5-71002e5ee219" />
+<img "width="265" height="190" alt="image" src="https://github.com/user-attachments/assets/de382302-9bfa-4018-a1a5-71002e5ee219">
 /p>
 # Railway Operations Database Management System
 
