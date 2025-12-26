@@ -6,7 +6,7 @@
        width="800">
 </p>
 
----
+
 
 ## Overview
 
@@ -18,13 +18,12 @@ This project focuses on designing and implementing a structured, normalized rela
        width="600">
 </p>
 
----
 
 ## Objective
 
 The objective of this project is to demonstrate how complex, real-world operational data can be organized into a scalable and integrity-driven relational database system, minimizing redundancy while ensuring accuracy, consistency, and efficient data retrieval.
 
----
+
 
 ## System Design
 
@@ -33,7 +32,7 @@ The objective of this project is to demonstrate how complex, real-world operatio
 - Converted the ER model into a relational schema normalized up to Third Normal Form (3NF)  
 - Ensured referential integrity using primary and foreign key constraints  
 
----
+
 
 ## Key Features
 
@@ -45,7 +44,6 @@ The objective of this project is to demonstrate how complex, real-world operatio
   - Revenue tracking  
   - Staff scheduling  
 
----
 
 ## ER Diagram
 
@@ -55,7 +53,6 @@ The objective of this project is to demonstrate how complex, real-world operatio
        width="1000">
 </p>
 
----
 
 ## Tools & Concepts Used
 
@@ -65,7 +62,6 @@ The objective of this project is to demonstrate how complex, real-world operatio
 - SQL (DDL, DML, Queries)  
 - Primary & Foreign Key Constraints  
 
----
 
 ## Use Case
 
