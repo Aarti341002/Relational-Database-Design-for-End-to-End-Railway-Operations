@@ -1,5 +1,6 @@
-<img "width="265" height="190" alt="image" src="https://github.com/user-attachments/assets/de382302-9bfa-4018-a1a5-71002e5ee219" />
 # Railway Operations Database Management System
+
+<img width="265" height="190" alt="image" src="https://github.com/user-attachments/assets/8917e845-b372-4d4f-98d7-bfc43a16f340" />
 
 ## Overview
 This project focuses on designing and implementing a structured, normalized relational database to model end-to-end railway operations, including passenger management, ticketing, train scheduling, payments, staff duties, and onboard services.
